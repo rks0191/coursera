@@ -1,0 +1,9 @@
+[0m[[0m[0minfo[0m] [0m[0mAttempting to submit "recfun" assignment in "progfun1" course[0m
+[0m[[0m[0minfo[0m] [0m[0mUsing:[0m
+[0m[[0m[0minfo[0m] [0m[0m- email: rks0191@gmail.com[0m
+[0m[[0m[0minfo[0m] [0m[0m- submit token: b9iCkvcsWDDn8wiS[0m
+[0m[[0m[0minfo[0m] [0m[0mConnecting to Coursera...[0m
+[0m[[0m[31merror[0m] [0m[0mSubmission failed.[0m
+[0m[[0m[31merror[0m] [0m[0mThere was something wrong while attempting to submit.[0m
+[0m[[0m[31merror[0m] [0m[0mCoursera says:[0m
+[0m[[0m[31merror[0m] [0m[0mYou used a token for "Example Assignment" in "Functional Programming Principles in Scala". Please use a token for the assignment you are submitting. (Status 400)[0m
