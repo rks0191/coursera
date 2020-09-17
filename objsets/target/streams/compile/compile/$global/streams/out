@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/rakshith/Desktop/objsets/src/main/scala/objsets/TweetSet.scala:139:47: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : objsets.Empty[0m
+[0m[[0m[31merror[0m] [0m[0m required: objsets.Tweet[0m
+[0m[[0m[31merror[0m] [0m[0m  def mostRetweeted: Tweet = mostRetweetedAcc(new Empty)[0m
+[0m[[0m[31merror[0m] [0m[0m                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
