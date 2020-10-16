@@ -59,9 +59,7 @@ object WikipediaRanking extends WikipediaRankingInterface {
         languages.map {
           lang => lang -> wiki
         }
-    }.groupBy(_._1).map{
-      case (lang,tuple) => lang -> tuple.map(_._2)
-    }
+    }.groupByKey
   }
   /* (2) Compute the language ranking again, but now using the inverted index. Can you notice
    *     a performance improvement?
